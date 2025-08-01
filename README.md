@@ -53,7 +53,7 @@ Instalación y Uso
 
 1. Clona el repositorio
    bash
-   git clone https://github.com/alexitico1989/amigo-secreto.git
+   git clone https://github.com/alexitico1989/juego-amigo-secreto.git
 
 2. Navega al directorio
    bash
